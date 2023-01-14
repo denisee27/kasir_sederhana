@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    font-family: sans-serif;
+    }
+body {
+    background-color:#1b2838;
+    color: green;
+
+}
+.header{
+    background-color: #171a21;
+    padding: 3%;
+    font-size: 20px;
+    color: #b8b6b4;
+    box-shadow: 0 0 7px 0 rgb(0 0 0 / 75%);
+}
+.button_home {
+    align-items: left;
+    float: left;
+    margin: 20px;
+}
+.link{
+    color:#b8b6b4 ;
+    text-decoration: none;
+}
+.link:hover{
+    color: white;
+}
+.banner {
+    padding-bottom: 40px;
+    border-radius: 20px;
+    margin: 20px;
+    display: block;
+    background-color:#407999;
+}
+.banner ul{
+    padding:50px 50px;
+    list-style-type: none;
+    font-size: 20px;
+    color:#E1E0DF ;
+}
+.awal {
+    font-size: 25px;
+    background-color: #2A3E59;
+    border-radius: 20px;
+    color:#E1E0DF ;
+    display: block;
+    margin-top: 30px;
+    margin: auto 20px;
+    padding: 50px 100px;
+}
+.awal ul{
+    list-style-type: none;
+    font-size: 30px;
+}
+.isi {
+    display: inline-block;
+    width: 20%;
+    margin-left: 41%;
+}
+.isi ul li {
+    font-size: 20px;
+    margin :40px 10px;
+    width: 70px;
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+    padding: 10px;
+    background-color: #325EB6;
+    list-style-type: none;
+}
+.isi ul li a{
+    color:#66c0f4;
+}
+.awal_box ul {
+    list-style-type: none;
+}
+.hasil { 
+    color:white ;
+    text-align: center;
+}
+.hasil tr {
+    border-radius: 20px;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #325EB6;
+}
+input {
+    align-items: center;
+}
+.isi :hover {
+    color: white;
+}
